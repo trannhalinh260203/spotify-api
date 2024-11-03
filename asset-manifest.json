@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trannhalinh260203/spotify-api/static/css/main.baf563c4.css",
+    "main.js": "/trannhalinh260203/spotify-api/static/js/main.96ed1e18.js",
+    "static/js/453.fa74a3bb.chunk.js": "/trannhalinh260203/spotify-api/static/js/453.fa74a3bb.chunk.js",
+    "static/media/logo.png": "/trannhalinh260203/spotify-api/static/media/logo.72dfe9488cbb017e5cc5.png",
+    "index.html": "/trannhalinh260203/spotify-api/index.html",
+    "main.baf563c4.css.map": "/trannhalinh260203/spotify-api/static/css/main.baf563c4.css.map",
+    "main.96ed1e18.js.map": "/trannhalinh260203/spotify-api/static/js/main.96ed1e18.js.map",
+    "453.fa74a3bb.chunk.js.map": "/trannhalinh260203/spotify-api/static/js/453.fa74a3bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf563c4.css",
+    "static/js/main.96ed1e18.js"
+  ]
+}
